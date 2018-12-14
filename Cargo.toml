@@ -1,0 +1,9 @@
+[package]
+name = "AdventOfCode"
+version = "0.1.0"
+authors = ["Eduard Wayland <eduproard@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = "0.9.5"
+failure = "0.1.3"
